@@ -1,4 +1,5 @@
 using System;
+using System.Threading.Tasks;
 using Xunit;
 
 namespace XUnitTestProjectCore
@@ -8,7 +9,7 @@ namespace XUnitTestProjectCore
         [Fact]
         public void Test1()
         {
-
+            Task.Delay(10).Wait();
         }
     }
 }
