@@ -102,7 +102,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test20()
         {
             Task.Delay(10).Wait();
@@ -202,7 +202,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test40()
         {
             Task.Delay(10).Wait();
@@ -302,7 +302,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test60()
         {
             Task.Delay(10).Wait();
@@ -402,7 +402,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test80()
         {
             Task.Delay(10).Wait();
@@ -502,7 +502,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test100()
         {
             Task.Delay(10).Wait();
@@ -602,7 +602,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test120()
         {
             Task.Delay(10).Wait();
@@ -702,7 +702,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test140()
         {
             Task.Delay(10).Wait();
@@ -802,7 +802,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test160()
         {
             Task.Delay(10).Wait();
@@ -902,7 +902,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test180()
         {
             Task.Delay(10).Wait();
@@ -1002,7 +1002,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test200()
         {
             Task.Delay(10).Wait();
@@ -1102,7 +1102,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test220()
         {
             Task.Delay(10).Wait();
@@ -1202,7 +1202,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test240()
         {
             Task.Delay(10).Wait();
@@ -1302,7 +1302,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test260()
         {
             Task.Delay(10).Wait();
@@ -1402,7 +1402,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test280()
         {
             Task.Delay(10).Wait();
@@ -1502,7 +1502,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test300()
         {
             Task.Delay(10).Wait();
@@ -1602,7 +1602,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test320()
         {
             Task.Delay(10).Wait();
@@ -1702,7 +1702,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test340()
         {
             Task.Delay(10).Wait();
@@ -1802,7 +1802,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test360()
         {
             Task.Delay(10).Wait();
@@ -1902,7 +1902,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test380()
         {
             Task.Delay(10).Wait();
@@ -2002,7 +2002,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test400()
         {
             Task.Delay(10).Wait();
@@ -2102,7 +2102,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test420()
         {
             Task.Delay(10).Wait();
@@ -2202,7 +2202,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test440()
         {
             Task.Delay(10).Wait();
@@ -2302,7 +2302,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test460()
         {
             Task.Delay(10).Wait();
@@ -2402,7 +2402,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test480()
         {
             Task.Delay(10).Wait();
@@ -2502,7 +2502,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test500()
         {
             Task.Delay(10).Wait();
@@ -2602,7 +2602,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test520()
         {
             Task.Delay(10).Wait();
@@ -2702,7 +2702,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test540()
         {
             Task.Delay(10).Wait();
@@ -2802,7 +2802,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test560()
         {
             Task.Delay(10).Wait();
@@ -2902,7 +2902,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test580()
         {
             Task.Delay(10).Wait();
@@ -3002,7 +3002,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test600()
         {
             Task.Delay(10).Wait();
@@ -3102,7 +3102,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test620()
         {
             Task.Delay(10).Wait();
@@ -3202,7 +3202,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test640()
         {
             Task.Delay(10).Wait();
@@ -3302,7 +3302,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test660()
         {
             Task.Delay(10).Wait();
@@ -3402,7 +3402,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test680()
         {
             Task.Delay(10).Wait();
@@ -3502,7 +3502,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test700()
         {
             Task.Delay(10).Wait();
@@ -3602,7 +3602,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test720()
         {
             Task.Delay(10).Wait();
@@ -3702,7 +3702,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test740()
         {
             Task.Delay(10).Wait();
@@ -3802,7 +3802,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test760()
         {
             Task.Delay(10).Wait();
@@ -3902,7 +3902,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test780()
         {
             Task.Delay(10).Wait();
@@ -4002,7 +4002,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test800()
         {
             Task.Delay(10).Wait();
@@ -4102,7 +4102,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test820()
         {
             Task.Delay(10).Wait();
@@ -4202,7 +4202,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test840()
         {
             Task.Delay(10).Wait();
@@ -4302,7 +4302,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test860()
         {
             Task.Delay(10).Wait();
@@ -4402,7 +4402,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test880()
         {
             Task.Delay(10).Wait();
@@ -4502,7 +4502,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test900()
         {
             Task.Delay(10).Wait();
@@ -4602,7 +4602,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test920()
         {
             Task.Delay(10).Wait();
@@ -4702,7 +4702,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test940()
         {
             Task.Delay(10).Wait();
@@ -4802,7 +4802,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test960()
         {
             Task.Delay(10).Wait();
@@ -4902,7 +4902,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test980()
         {
             Task.Delay(10).Wait();
@@ -5002,7 +5002,7 @@ namespace XUnitTestProjectCore
         {
             Task.Delay(10).Wait();
         }
-        [Fact]
+        [Fact(Skip = "CI test")]
         public void Test1000()
         {
             Task.Delay(10).Wait();
